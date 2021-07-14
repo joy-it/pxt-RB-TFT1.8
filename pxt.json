@@ -2,6 +2,7 @@
     "name": "rb-tft18",
     "version": "1.0.0",
     "description": "MakeCode Package for the RB-TFT1.8 (ST7735 1.8' TFT Display).",
+    "license": "MIT",
     "dependencies": {
         "core": "*"
     },
@@ -14,7 +15,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true,
     "supportedTargets": [
         "microbit"
     ]
