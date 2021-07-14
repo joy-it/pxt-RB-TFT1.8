@@ -10,7 +10,7 @@
         "README.md",
         "RB-TFT18.ts",
         "_locales/de/rb-tft18-strings.json",
-        "_locales/de/rb_tft18-jsdoc-strings.json"
+        "_locales/de/rb-tft18-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
