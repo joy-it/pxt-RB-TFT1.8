@@ -281,8 +281,8 @@ enum Color {
          // Draw rectangle
          for(let indexY = height ; indexY > 0 ; indexY--) {
              for(let indexX = width ; indexX > 0 ; indexX--) {
-                 pins.spiWrite(bgHiColor);
-                 pins.spiWrite(bgLoColor);
+                 pins.spiWrite(hiColor);
+                 pins.spiWrite(loColor);
              }
          }
 
